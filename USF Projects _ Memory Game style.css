@@ -1,0 +1,33 @@
+h1 {
+font-family: URW Chancery L, cursive;
+color: #373f43;
+font-size: 5rem;
+font-weight: 400;
+margin-left: auto;
+margin-right: auto;
+text-shadow: 2px 2px 4px #7f6785;
+font-variant: small-caps;
+text-decoration-line: underline;
+text-decoration-thickness: 4px;
+}
+h2 {
+  font-family: URW Chancery L, cursive;
+  color: #373f43;
+  font-size: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  body {
+    background-color: lavender;
+  }
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: double;
+  border-color: white;
+  border-width: 5px;
+}
